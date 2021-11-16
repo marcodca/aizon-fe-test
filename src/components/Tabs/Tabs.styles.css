@@ -1,0 +1,13 @@
+.tabs-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.tabs-nav {
+    display: flex;
+}
+.content {
+    padding: 16px 8px;
+    font-size: 14px;
+    color: #4C5769;
+}
