@@ -1,6 +1,6 @@
 import React from "react";
-import { Tabs } from "./components/Tabs/Tabs";
-import { Tab } from "./components/Tabs/Tab/Tab";
+import { Tabs } from "./components/tabs";
+import { Tab } from "./components/tabs/tab";
 
 function App() {
   return (
